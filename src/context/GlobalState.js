@@ -11,7 +11,7 @@ const initialState = {
     ]
 }
 
-// Create Context
+// Create Context For Use
 
 export const GlobalContext = createContext(initialState);
 
